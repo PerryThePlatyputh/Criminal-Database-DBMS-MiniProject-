@@ -3,9 +3,7 @@
 ### Mini Project for Database Management Systems (18CSC303J)
 
 Members:
-- Aditi Mittal (RA1911003010226)
-- Anweasha Saha (RA1911003010235)
-- Vijay Ravichander (RA1911003010239)
+- Yuvraj Vemuri (CSE-D 29; 220905182)
 
 ## PROBLEM STATEMENT
 - In this era of growing demands of pharmaceutical and chemical products for health and medicine; every medical store, be it a small of medium sized businesses are running rampant towards efficient store management and rapid revenue computation. 
