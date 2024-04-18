@@ -1,6 +1,6 @@
 # Pharmacy Management System
 
-### Mini Project for Database Management Systems (18CSC303J)
+### Mini Project for Database Systems 
 
 Members:
 - Yuvraj Vemuri (CSE-D 29; 220905182)
