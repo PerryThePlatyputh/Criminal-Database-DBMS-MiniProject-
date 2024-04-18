@@ -17,9 +17,9 @@ Members:
 
 
 ## ER DIAGRAM
-<img src="https://github.com/Aditimittal2809/Pharmacy_Management_System/blob/main/images/dbms-4.jpeg" width=700><br>
+<img src="https://github.com/PerryThePlatyputh/Pharmaceutical-Database-DBMS-MiniProject-/blob/main/ER.jpeg" width=700><br>
 
 ## OUTPUT
-<img src="https://github.com/Aditimittal2809/Pharmacy_Management_System/blob/main/images/dbms-1.jpeg" width=700><br>
-<br><img src="https://github.com/Aditimittal2809/Pharmacy_Management_System/blob/main/images/dbms-2.jpeg" width=700><br>
-<br><img src="https://github.com/Aditimittal2809/Pharmacy_Management_System/blob/main/images/dbms-3.jpeg" width=700><br>
+<img src="hhttps://github.com/PerryThePlatyputh/Pharmaceutical-Database-DBMS-MiniProject-/blob/main/user1.jpg" width=700><br>
+<br><img src="https://github.com/PerryThePlatyputh/Pharmaceutical-Database-DBMS-MiniProject-/blob/main/user2.jpg" width=700><br>
+<br><img src="https://github.com/PerryThePlatyputh/Pharmaceutical-Database-DBMS-MiniProject-/blob/main/signup.jpg" width=700><br>
