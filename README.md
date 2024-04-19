@@ -20,6 +20,7 @@ Members:
 <img src="https://github.com/PerryThePlatyputh/Pharmaceutical-Database-DBMS-MiniProject-/blob/main/ER.jpeg" width=700><br>
 
 ## OUTPUT
-<br><img src="https://github.com/PerryThePlatyputh/Pharmaceutical-Database-DBMS-MiniProject-/blob/main/user1.jpg" width=700><br>
-<br><img src="https://github.com/PerryThePlatyputh/Pharmaceutical-Database-DBMS-MiniProject-/blob/main/user2.jpg" width=700><br>
-<br><img src="https://github.com/PerryThePlatyputh/Pharmaceutical-Database-DBMS-MiniProject-/blob/main/signup.jpg" width=700><br>
+<br><img src="https://github.com/PerryThePlatyputh/Pharmaceutical-Database-DBMS-MiniProject-/blob/main/images/successful%20signup.png" width=700><br>
+<br><img src="https://github.com/PerryThePlatyputh/Pharmaceutical-Database-DBMS-MiniProject-/blob/main/images/drug%20details.png" width=700><br>
+<br><img src="https://github.com/PerryThePlatyputh/Pharmaceutical-Database-DBMS-MiniProject-/blob/main/images/order%20details.png" width=700><br>
+<br><img src="https://github.com/PerryThePlatyputh/Pharmaceutical-Database-DBMS-MiniProject-/blob/main/images/user%20login.png" width=700><br>
